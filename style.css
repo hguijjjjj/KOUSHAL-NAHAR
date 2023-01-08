@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding-top:500px;
+    text-align: center;
+  background-color:yellowgreen;
+}
+.profile{
+    border-radius:45%;
+}
+#HELLO{
+    position:absolute;
+    bottom: 0;
+    background:darkblue;
+    display:table;
+    width: 100%;
+    height: 100%;
+}
+  #autobio{
+  padding: 60px;
+  text-align: center;
+}
+  .line{
+    height: 6px;
+     background-color:purple;
+      width: 80px;
+     margin: 10px auto;
+}
+.Menu{
+  font-family:'Lobster', cursive;
+  list-style: none;
+  position: absolute;
+  top: 5px;
+    right: 15px;
+    z-index: 5;
+    cursor: pointer;
+    font-size: 14px;
+}
+.links{
+    float: left;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+    
